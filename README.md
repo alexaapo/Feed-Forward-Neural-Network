@@ -7,7 +7,8 @@ I experimented and developed 3 models and compare them over F1 score, Recall and
 For the development of the models, I experimented with:
 * the number of hidden layers and the number of their units
 * the activation functions
-* the loss function•the optimizer, etc
+* the loss function
+* the optimizer, etc
 
 I implement one model with pre-trained word embendding vectors using GloVe and the other two I selected TF-IDF vectorization.
 
