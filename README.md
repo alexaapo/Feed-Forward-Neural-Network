@@ -16,4 +16,5 @@ I also have a notebook with the preprocess of the data.
 In the end, I choose my best model and describe the reasons why I concluded to that architecture. 
 For the best model I plot also the loss vs epochs and the ROC curve and explain.
 
-#### My solution is implemented in PyTorch and the report is well documented.
+#### My solution is implemented in PyTorch and the report is well documented. For running the notebooks, I used the Google Colab with its GPU.
+
