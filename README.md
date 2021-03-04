@@ -11,6 +11,7 @@ For the development of the models, I experimented with:
 * the optimizer, etc
 
 I implement one model with pre-trained word embendding vectors using GloVe and the other two I selected TF-IDF vectorization.
+I also have a notebook with the preprocess of the data.
 
 In the end, I choose my best model and describe the reasons why I concluded to that architecture. 
 For the best model I plot also the loss vs epochs and the ROC curve and explain.
